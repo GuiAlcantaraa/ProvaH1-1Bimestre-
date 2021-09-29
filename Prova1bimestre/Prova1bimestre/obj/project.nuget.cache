@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BZadjnk1XUZDnZjPE70QuoZC0gKMmbWXtc1mBbTStHw8e0WyA8xvP2tNm8AkAANwiejG/lwUX8EeCBw5uGVVeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\redsh\\OneDrive\\Área de Trabalho\\ProvaH1\\Prova1bimestre\\Prova1bimestre\\Prova1bimestre.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\redsh\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
